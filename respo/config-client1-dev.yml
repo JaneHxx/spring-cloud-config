@@ -1,2 +1,2 @@
-<foo>foo version 1</foo>  
-<demo.message>Hello Spring Config</demo.message>
+foo=foo version 1
+demo.message=Hello Spring Config
